@@ -10,12 +10,34 @@ paginate: 8
 paginate_path: "page:num"
 
 # presonal config
-domain: www.panxw.com
-title: Panxw's Blog
+domain: markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+domain: laujeve.github.io
+title: Kurisuちゃん
 description: Android, Cocos2d, Java Web, Linux, reading...
-author: Steven Pan
+author: laujeve
 email: winfirm#163.com
-github: panxw
+github: laujeve
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
+title: Kurisuちゃん
+description: Android, Cocos2d, Java Web, Linux, reading...
+author: laujeve
+email: winfirm#163.com
+github: laujeve
 
 config:
   js_dir:
