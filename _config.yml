@@ -35,9 +35,6 @@ github: panxw
 
 
 config:
-  
-	js_dir:
-  
-	img_dir:
-  
-	css_dir:
+  js_dir:
+  img_dir:
+  css_dir:
